@@ -1,0 +1,87 @@
+SIZE = WIDTH, HEIGHT = 800, 650
+FPS = 1000 // 60
+
+BLACK = 0, 0, 0
+WHITE = 255, 255, 255
+DARK_ORANGE = 170, 75, 0
+LIGHT_ORANGE = 234, 75, 0
+BROWN = 137, 41, 0
+RED =(255,0,0)
+LIME = (0,255,0)
+BLUE = (0,0,255)
+YELLOW =(255,255,0)
+AQUA = (0,255,255)
+MAGENTA =(255,0,255)
+SILVER =(192,192,192)
+GRAY = (128,128,128)
+MAROON = (128,0,0)
+OLIVE = (128,128,0)
+GREEN = (0,128,0)
+PURPLE = (128,0,128)
+TEAL = (0,128,128)
+NAVY = (0,0,128)
+GOLD = (255,215,0)
+YELLOW_GREEN = (154,205,50)
+MEDIUM_SPRING_GREEN = (0,250,154)
+BLUE_VIOLET = (138,43,226)
+MEDIUM_SLATE_BLUE = (123,104,238)
+DARK_VIOLET = (148,0,211)
+DEEP_PINK = (255,20,147)
+LIGHT_SILMON = (255,160,122)
+KHAKI = (240,230,140)
+DARK_GREEN = (0,100,0)
+LIGHT_SEA_GREEN = (32,178,170)
+STEEL_BLUE = (70,130,180)
+CORN_FLOWER_BLUE = (100,149,237)
+SKY_BLUE = (135,206,235)
+ROYAL_BLUE = (65,105,225)
+INDIGO = (75,0,130)
+DARK_SLATE_BLUE = (72,61,139)
+DARK_MAGENTA = (139,0,139)
+ORCHID = (218,112,214)
+HOT_PICK = (255,105,180)
+BISQUE = (255,228,196)
+BLANCHED_ALMOD = (255,235,205)
+SADDLE_BROWN = (139,69,19)
+SIENNA = (160,82,45)
+MOCCASIN = (255,228,181)
+NAVAJO_WHITE = (255,222,173)
+SLATE_GRAY = (112,128,144)
+LIGHT_SLATE_GRAY = (119,136,153)
+GHOST_WHITE = (248,248,255)
+DARK_GRAY = (169,169,169)
+WHITE_SMOKE = (245,245,245)
+INVISIBLE_ORANGE = (200, 75, 0)
+DEEP_BLUE = (0, 0, 79)
+LIGHT_BLUE = (206, 221, 252)
+MEDIUM_BLUE = (0, 0, 128)
+LIGHT_LIGHT_ORANGE = (255, 97, 23)
+
+proceed_table_records = 'table_records'
+proceed_close_app = 'close_app'
+proceed_game_single = 'game_single_'
+proceed_game_double = 'game_double_'
+proceed_levels = 'levels'
+proceed_menu = 'menu'
+proceed_control = 'control'
+
+INDENT_X = 30
+INDENT_Y = 70
+LESS_OBJECT = -2
+SIZE_CELL = WIDTH_CELL, HEIGHT_CELL = 22, 22
+
+
+BUTTON_STYLE = {"hover_color": DARK_ORANGE,
+                "clicked_color": WHITE,
+                "font_color": WHITE,
+                "clicked_font_color": BLACK,
+                "hover_font_color": WHITE
+                }
+
+players = ['Jack', 'Tom']
+
+BUTTON_WIDTH = 200
+BUTTON_HEIGHT = 75
+
+MENU_BUTTON_SPACING = 5
+ANIMATION_TICK = 5

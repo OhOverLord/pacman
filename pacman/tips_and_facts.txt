@@ -1,0 +1,18 @@
+If you are an experienced player, you will definitely win.
+If you win, then you are an experienced player.
+Our ghosts are the most unpredictable ghosts in the world.
+When the ghosts turn blue, you can eat them.
+White ghosts can't eat you.
+The results of your game are recorded in the table of records.
+Teleportation in the game is worth 100 points.
+Small grains give 5 points.
+Big grains give 100 points.
+Original "Pacman" was developed by Namko in 1980.
+Fear mode lasts 10 seconds and allows you to eat ghosts.
+After eating the ghosts inviolably 4 seconds.
+To change the player's name, click on it in the menu.
+To go to the next level you need to eat all the grains.
+You can play with a friend in double mode.
+In the original "Pakman" 256 levels, but we have only 20.
+While writing the game, no developer was hurt.
+Every consecutive ghost gives you more points.
